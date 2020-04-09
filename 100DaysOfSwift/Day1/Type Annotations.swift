@@ -1,4 +1,4 @@
-// Type annotations
+// Type Annotations
 
 let str = "Hello, World!"
 let album: String = "Reputation"

@@ -1,4 +1,4 @@
-// String interpolation
+// String Interpolation
 
 var score = 85
 var str = "Your score was \(score)"
