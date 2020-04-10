@@ -6,6 +6,6 @@
 
 ---
 
-### [/100DaysOfSwift/](/100DaysOfSwift/)
+### _[/100DaysOfSwift/](/100DaysOfSwift/)_
 
-### [/100DaysOfSwiftUI/](/100DaysOfSwiftUI/)
+### _[/100DaysOfSwiftUI/](/100DaysOfSwiftUI/)_
