@@ -1,4 +1,5 @@
 // Type Annotations
+// https://www.hackingwithswift.com/sixty/1/7/type-annotations
 
 let str = "Hello, World!"
 let album: String = "Reputation"

@@ -5,3 +5,8 @@
 **This folder is for the [100 Days of Swift](https://www.hackingwithswift.com/100) challenge.**
 
 **NOTE:** This is **[100 Days of Swift](https://www.hackingwithswift.com/100)**, not **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** which is located [here](/100DaysOfSwiftUI/)
+
+---
+
+- **[Day #1](/100DaysOfSwift/Day1/)**
+- **[Day #2](/100DaysOfSwift/Day2/)**
