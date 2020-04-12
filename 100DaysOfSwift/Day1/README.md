@@ -2,7 +2,7 @@
 
 ---
 
-**What I learned**
+**What I learned about**
 
 - **[Variables](/100DaysOfSwift/Day1/Variables.swift)**
 - **[Strings & Integers](/100DaysOfSwift/Day1/Strings%20%26%20Integers.swift)**

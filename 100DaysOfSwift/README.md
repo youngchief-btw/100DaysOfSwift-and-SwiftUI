@@ -12,3 +12,4 @@
 
 - **[Day #1](/100DaysOfSwift/Day1/)** - variables, simple data types, and string interpolation
 - **[Day #2](/100DaysOfSwift/Day2/)** - arrays, dictionaries, sets, and enums
+- **[Day #3](/100DaysOfSwift/Day3/)** - operators and conditions

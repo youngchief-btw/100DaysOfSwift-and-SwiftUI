@@ -2,7 +2,7 @@
 
 ---
 
-**What I learned**
+**What I learned about**
 
 - **[Arrays](/100DaysOfSwift/Day2/Arrays.swift)**
 - **[Sets](/100DaysOfSwift/Day2/Sets.swift)**
