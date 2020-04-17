@@ -11,5 +11,5 @@
 - **[Conditions](/100DaysOfSwift/Day3/Conditions.swift)**
 - **[Combining conditions](/100DaysOfSwift/Day3/Combining%20conditions.swift)**
 - **[The ternary operator](/100DaysOfSwift/Day3/The%20ternary%20operator.swift)**
-- \*\*[Switch statements](/100DaysOfSwift/Day3/Switch%20statements.swift)
+- **[Switch statements](/100DaysOfSwift/Day3/Switch%20statements.swift)**
 - **[Range operators](/100DaysOfSwift/Day3/Range%20operators.swift)**
